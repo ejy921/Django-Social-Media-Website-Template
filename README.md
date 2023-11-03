@@ -1,4 +1,4 @@
-# prambleprojFULL
+# Pramble Project
 
 **Pramble Website Project Implementing Django Framework**
 Author: Jinny Eo
